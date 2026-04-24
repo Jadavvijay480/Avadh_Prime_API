@@ -1,0 +1,6 @@
+@AVADH_PRIME_API_HostAddress = http://localhost:5153
+
+GET {{AVADH_PRIME_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

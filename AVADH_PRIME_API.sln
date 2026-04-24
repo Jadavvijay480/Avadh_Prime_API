@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVADH_PRIME_API", "AVADH_PRIME_API.csproj", "{09F08FB7-B040-4ACB-B851-E628A3C579F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F08FB7-B040-4ACB-B851-E628A3C579F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F08FB7-B040-4ACB-B851-E628A3C579F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F08FB7-B040-4ACB-B851-E628A3C579F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F08FB7-B040-4ACB-B851-E628A3C579F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82A6558-37F7-46D3-833F-0F8EA51CB1AF}
+	EndGlobalSection
+EndGlobal
